@@ -1,1 +1,2 @@
 welcome to Git
+i am new to git
